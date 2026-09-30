@@ -1,0 +1,20 @@
+FirstName,LastName,SamAccountName,Department,Title,Office,EmployeeID,OUPath,Groups
+Priya,Sharma,priya.sharma,Finance,Accountant,Head Office,100101,"OU=Users,OU=Head Office,OU=Corp",GS-Finance-RW
+Daniel,Brooks,daniel.brooks,Finance,Finance Manager,Head Office,100102,"OU=Users,OU=Head Office,OU=Corp",GS-Finance-RW
+Aisha,Khan,aisha.khan,Finance,Accounts Payable Clerk,Head Office,100103,"OU=Users,OU=Head Office,OU=Corp",GS-Finance-RO
+Marcus,Lee,marcus.lee,Human Resources,HR Generalist,Head Office,100104,"OU=Users,OU=Head Office,OU=Corp",GS-HR-RW
+Sofia,Alvarez,sofia.alvarez,Human Resources,HR Manager,Head Office,100105,"OU=Users,OU=Head Office,OU=Corp",GS-HR-RW
+Ethan,Walker,ethan.walker,Merchandising,Buyer,Head Office,100106,"OU=Users,OU=Head Office,OU=Corp",GS-Merch-RW
+Grace,Nguyen,grace.nguyen,Merchandising,Merchandise Planner,Head Office,100107,"OU=Users,OU=Head Office,OU=Corp",GS-Merch-RW
+Ryan,Patel,ryan.patel,Store Operations,District Manager,Head Office,100108,"OU=Users,OU=Head Office,OU=Corp",GS-StoreOps-RW
+Olivia,Martin,olivia.martin,Store Operations,Store Manager,Store 0421,200101,"OU=Users,OU=Store-0421,OU=Stores,OU=Corp",GS-Store0421-Users;GS-StoreOps-RW
+Jacob,Wilson,jacob.wilson,Store Operations,Cashier,Store 0421,200102,"OU=Users,OU=Store-0421,OU=Stores,OU=Corp",GS-Store0421-Users
+Mia,Thompson,mia.thompson,Store Operations,Department Supervisor,Store 0421,200103,"OU=Users,OU=Store-0421,OU=Stores,OU=Corp",GS-Store0421-Users
+Noah,Davis,noah.davis,Store Operations,Sales Associate,Store 0421,200104,"OU=Users,OU=Store-0421,OU=Stores,OU=Corp",GS-Store0421-Users
+Chloe,Robinson,chloe.robinson,Store Operations,Store Manager,Store 0587,200201,"OU=Users,OU=Store-0587,OU=Stores,OU=Corp",GS-Store0587-Users;GS-StoreOps-RW
+Liam,Carter,liam.carter,Store Operations,Cashier,Store 0587,200202,"OU=Users,OU=Store-0587,OU=Stores,OU=Corp",GS-Store0587-Users
+Harper,Evans,harper.evans,Store Operations,Sales Associate,Store 0587,200203,"OU=Users,OU=Store-0587,OU=Stores,OU=Corp",GS-Store0587-Users
+Arjun,Mehta,arjun.mehta,Information Technology,Service Desk Analyst,Head Office,300101,"OU=Users,OU=IT,OU=Corp",GS-IT-Support
+Emily,Chen,emily.chen,Information Technology,Desktop Support Technician,Head Office,300102,"OU=Users,OU=IT,OU=Corp",GS-IT-Support
+Arjun,Mehta (Admin),adm.arjun.mehta,Information Technology,Service Desk Analyst - admin account,Head Office,300101,"OU=Admin Accounts,OU=IT,OU=Corp",GS-IT-Admins
+Emily,Chen (Admin),adm.emily.chen,Information Technology,Desktop Support Technician - admin account,Head Office,300102,"OU=Admin Accounts,OU=IT,OU=Corp",GS-IT-Admins;Domain Admins
